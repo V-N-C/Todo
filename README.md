@@ -10,7 +10,7 @@ React + Vite and Bootstrap
 
 -> Will execute the site.
 
-Deployed url: https://landingpagetaskvnc.netlify.app/
+Deployed url: https://todotaskvnc.netlify.app
 
 Currently, two official plugins are available:
 
